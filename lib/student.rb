@@ -56,7 +56,7 @@ class Student
     new_student_name = row[1]
     new_student_grade = row[2]
     
-    new_student = selnew_student_id,new_student_name,new_student_grade)
+    new_student = self.(new_student_id,new_student_name,new_student_grade)
     new_student
   end
   
